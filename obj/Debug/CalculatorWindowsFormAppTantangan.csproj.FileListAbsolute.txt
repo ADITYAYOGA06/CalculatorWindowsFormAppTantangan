@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorWindowsFormAppTantangan.exe.config
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorWindowsFormAppTantangan.exe
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorWindowsFormAppTantangan.pdb
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.Form1.resources
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.exe
+C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.pdb
