@@ -47,7 +47,9 @@ namespace CalculatorWindowsFormAppTantangan
             "Penambahan",
             "Pengurangan",
             "Perkalian",
-            "Pembagian"});
+            "Pembagian",
+            "Pangkat",
+            "Modulo"});
             this.combo1.Location = new System.Drawing.Point(129, 25);
             this.combo1.Name = "combo1";
             this.combo1.Size = new System.Drawing.Size(140, 21);

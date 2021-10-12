@@ -8,3 +8,16 @@ C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\Calcula
 C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.exe
 C:\Users\Lenovo\source\repos\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorWindowsFormAppTantangan.exe.config
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorWindowsFormAppTantangan.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorWindowsFormAppTantangan.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorMachine.dll
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\bin\Debug\CalculatorMachine.pdb
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csprojAssemblyReference.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.Form1.resources
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.Properties.Resources.resources
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csproj.GenerateResource.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csproj.CoreCompileInputs.cache
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.csproj.CopyComplete
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.exe
+D:\Coba Coding\C#\Pemrograman Lanjut\AplikasiKalkulator\CalculatorWindowsFormAppTantangan\obj\Debug\CalculatorWindowsFormAppTantangan.pdb
